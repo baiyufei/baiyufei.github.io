@@ -1,0 +1,17 @@
+base_url = "https://baiyufei.github.io"
+
+title = "Baiyufei's Site"
+
+compile_sass = false
+
+highlight_code = true
+
+highlight_theme = "monokai"
+
+build_search_index = false
+
+taxonomies = [
+    { name = "tags"},
+]
+
+[extra]
